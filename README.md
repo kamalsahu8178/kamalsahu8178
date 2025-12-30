@@ -1,3 +1,4 @@
+# Hello I'm kamal sahu
 # 💫 About Me:
 I'm currently study in Kr. Mangalam University, BCA(AI&DS).<br>I'm build somethings. Sometimes those things are help full for programing. Sometimes they're ideas, I'm still trying to articulate. <br>What's consistent is that. I'm obsessed with understanding how technology actually works-not just it's marketed.
 
